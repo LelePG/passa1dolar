@@ -1,0 +1,24 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F0E5E5;
+  height: 100vh;
+  margin: 0px;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #4e4444;
+}
+
+img {
+  border-radius: 10px;
+  margin: 15px;
+  border: 5px solid #938282;
+  width: 90%;
+}
