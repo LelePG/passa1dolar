@@ -1,6 +1,8 @@
 ## 💵 Passa 1 dólar
 
-<img src="imagens/capa.png" />
+<p align="center">
+    <img src="imagens/capa.png" style="width: 500px;" />
+</p>
 
 ## 💭 O que é este projeto?
 
@@ -14,5 +16,5 @@ Para iniciar a aplicação localmente, é preciso baixar este repositório (seja
 
 ## Links importantes
 
--   [Deploy da aplicação](https://passa1dolar.lelepg.app/)
--   [Documentação API](https://www.frankfurter.app/docs/)
+- [Deploy da aplicação](https://passa1dolar.lelepg.app/)
+- [Documentação API](https://www.frankfurter.app/docs/)
